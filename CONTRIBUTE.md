@@ -110,6 +110,7 @@ There are several terms code reviewers may use that you should become familiar w
   * ` LGTM ` — looks good to me
   * ` SGTM ` — sounds good to me
   * ` CL ` — change list; a single commit in the repository
+  * ` PTAL ` — please take another look
   * ` s/foo/bar/ ` — please replace ` foo ` with ` bar `; this is [sed syntax](http://en.wikipedia.org/wiki/Sed#Usage)
   * ` s/foo/bar/g ` — please replace ` foo ` with ` bar ` throughout your entire change
 
